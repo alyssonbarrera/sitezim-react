@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>REACT É FODA</h1>
+        <h2>Chore em posição fetal</h2>
         <p>
           Esse é o meu Sitezim Tóp React
         </p>
